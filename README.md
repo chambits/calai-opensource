@@ -1,3 +1,5 @@
+Video [text](https://github.com/chambits/calai-opensource.git)
+
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/calcom/cal.com">
