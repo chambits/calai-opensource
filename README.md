@@ -1,4 +1,4 @@
-Video [text](https://github.com/chambits/calai-opensource.git)
+More Details =>[Video](https://github.com/chambits/calai-opensource.git)
 
 <!-- PROJECT LOGO -->
 <p align="center">
